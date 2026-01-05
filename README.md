@@ -38,11 +38,11 @@ Backend engineer focused on **real-time data processing, distributed systems, an
 🔗 **GitHub**: https://github.com/jjongkwann
 
 ---
-
+<!-- 
 ## ⚡ GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jjongkwann&show_icons=true&theme=radical)
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjongkwann&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjongkwann&layout=compact&theme=radical) -->
